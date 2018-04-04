@@ -1,2 +1,2 @@
 # MyCollegeProject
-This is a programs which i have done in college.
+This is a C programs which i have done in college.
