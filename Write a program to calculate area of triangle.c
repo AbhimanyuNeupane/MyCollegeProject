@@ -13,3 +13,4 @@ int main()
 
     printf("Area of triangle is %d",A);
     getch();
+}
