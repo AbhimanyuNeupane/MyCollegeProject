@@ -1,4 +1,4 @@
-/*WAP to find a character of ASCII character*/
+/*WAP to find a character of ASCII value*/
 
 #include <stdio.h>
 #include <conio.h>
