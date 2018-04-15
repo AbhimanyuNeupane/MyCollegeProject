@@ -10,8 +10,4 @@ int main()
     printf("ASCII character of %d is %c",number,number);
     getch();
     return 0;
-
-
-
-
 }
